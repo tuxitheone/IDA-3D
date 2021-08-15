@@ -1,0 +1,5 @@
+Sources for ANET A8 | X-Axis Cable Chain
+
+Z_Motor_Fixation_Chain for Anet A8 (http://www.thingiverse.com/thing:2055872)
+improved linear chain to Extruder on Anet A8 (http://www.thingiverse.com/thing:1905344)
+Anet A8 Y Cable Chain (http://www.thingiverse.com/thing:1874802)
