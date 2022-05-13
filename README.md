@@ -2,9 +2,12 @@
 	I dette webinar vil vi forsøge at give jer en større forståelse for, hvad 3d print er? hvorfor vi gøre det?
 	Vi vil forklare lidt om FFF (Fused filament fabrication) SLA/DLP (stereolithography apparatus)
 	
+# thinkercad
+[Dummies](https://www.dummies.com/article/technology/software/design-software/autocad/tinkercad-for-dummies-cheat-sheet-268314/) <br>
+
 # Software
 [CituBox](https://www.chitubox.com/en/download/chitubox-free)<br>
-[Cura 4.8.0](https://github.com/Ultimaker/Cura/releases/tag/4.8.0)<br>
+[Cura](https://ultimaker.com/software/ultimaker-cura)<br>
 	
 # Nice to know Links
 [Filament Properties Table](https://www.simplify3d.com/support/materials-guide/properties-table/)<br>
